@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f03c15&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f03c15&height=100&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f03c15&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;Ah,+General+Ken...+I+mean;I'm+Victor+Borges;A+27-year-old+brazilian;Trying+to+become+a+Data+Scientist;Welcome!+:%29)](https://git.io/typing-svg)
 
